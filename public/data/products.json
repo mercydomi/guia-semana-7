@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"Phantom K87","category":"Teclados gamer","description":"Teclado mecánico RGB compacto.","price":249,"stock":8,"image":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"},
+  {"id":2,"name":"Nebula 60","category":"Teclados gamer","description":"Switches lineales y formato 60%.","price":189,"stock":10,"image":"https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80"},
+  {"id":3,"name":"Vortex Pro","category":"Mouse gamer","description":"Sensor óptico de 26K DPI.","price":169,"stock":12,"image":"https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"},
+  {"id":4,"name":"Pulse Air","category":"Mouse gamer","description":"Mouse inalámbrico ultraligero.","price":219,"stock":6,"image":"https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80"},
+  {"id":5,"name":"Echo X7","category":"Audífonos","description":"Audio envolvente 7.1 y micrófono.","price":279,"stock":7,"image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"},
+  {"id":6,"name":"Astra Wireless","category":"Audífonos","description":"Libertad inalámbrica de baja latencia.","price":349,"stock":5,"image":"https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"},
+  {"id":7,"name":"Vision 27Q","category":"Monitores","description":"Monitor QHD 165 Hz para juego competitivo.","price":1199,"stock":4,"image":"https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"},
+  {"id":8,"name":"Nova 24","category":"Monitores","description":"Panel IPS Full HD de 144 Hz.","price":749,"stock":9,"image":"https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=800&q=80"},
+  {"id":9,"name":"Titan Seat","category":"Sillas gamer","description":"Soporte lumbar y reclinación 180°.","price":899,"stock":3,"image":"https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=800&q=80"},
+  {"id":10,"name":"Orbit Chair","category":"Sillas gamer","description":"Silla ergonómica para sesiones largas.","price":759,"stock":4,"image":"https://images.unsplash.com/photo-1505843490701-5c4b83b2d2c0?auto=format&fit=crop&w=800&q=80"},
+  {"id":11,"name":"Glide XL","category":"Accesorios","description":"Mousepad extendido con base antideslizante.","price":89,"stock":20,"image":"https://images.unsplash.com/photo-1629429407759-01cd3d7cfb38?auto=format&fit=crop&w=800&q=80"},
+  {"id":12,"name":"Stream Cam","category":"Accesorios","description":"Webcam Full HD para tus streams.","price":199,"stock":11,"image":"https://images.unsplash.com/photo-1589903308904-1010c2294adc?auto=format&fit=crop&w=800&q=80"}
+]
